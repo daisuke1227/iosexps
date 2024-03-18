@@ -24,9 +24,9 @@ local Tab = Window:MakeTab({
   PremiumOnly = false
 }) 
 
-Tab:AddParagraph("SkidHub V2.2","new games and scripts added :)NEW DISCORD .gg/rsdEGzus")
+Tab:AddParagraph("SkidHub V2.2","new games and scripts added :)NEW DISCORD Skidded")
 
-Tab:AddParagraph("SkidHub V2 IS HERE","updated ui looks and added lots of new scripts for users to enjoy :) !!make sure to join .gg/iosexploits for more updates!!")
+Tab:AddParagraph("SkidHub V2 IS HERE","updated ui looks and added lots of new scripts for users to enjoy :) !!make sure to join skidded for more updates!!")
 
 local Tab = Window:MakeTab({
   Name = "universal scripts",
