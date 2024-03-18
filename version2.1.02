@@ -4,12 +4,12 @@ local player = game.Players.LocalPlayer
 
 OrionLib:MakeNotification({
 Name = "Welcome!",
-Content = "welcome " .. player.DisplayName .. " to iosexp hub",
+Content = "welcome " .. player.DisplayName .. " to Skid hub",
 Image = "rbxassetid://4483345998",
 Time = 10
     })
 
-local Window = OrionLib:MakeWindow({Name = "|SkidSpolits | SkidScriptHub V2 | v2 |", HidePremium = false, SaveConfig = true, ConfigFolder = ".gg/iosexploits"})
+local Window = OrionLib:MakeWindow({Name = "|SkidSpolits | SkidScriptHub V2 | v2 |", HidePremium = false, SaveConfig = true, ConfigFolder = "nothing"})
 
 OrionLib:MakeNotification({
   Name = "zolo made this 🤫🧏‍♂️",
@@ -24,9 +24,9 @@ local Tab = Window:MakeTab({
   PremiumOnly = false
 }) 
 
-Tab:AddParagraph("IOSEXPLOITS V2.1","new games and scripts added :)NEW DISCORD .gg/rsdEGzus")
+Tab:AddParagraph("SkidHub V2.2","new games and scripts added :)NEW DISCORD .gg/rsdEGzus")
 
-Tab:AddParagraph("IOSEXPLOITS V2 IS HERE","updated ui looks and added lots of new scripts for users to enjoy :) !!make sure to join .gg/iosexploits for more updates!!")
+Tab:AddParagraph("SkidHub V2 IS HERE","updated ui looks and added lots of new scripts for users to enjoy :) !!make sure to join .gg/iosexploits for more updates!!")
 
 local Tab = Window:MakeTab({
   Name = "universal scripts",
